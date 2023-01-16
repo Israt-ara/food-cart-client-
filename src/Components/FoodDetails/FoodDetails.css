@@ -1,0 +1,15 @@
+.star {
+    color: rgb(247, 186, 33);
+}
+
+.details-text {
+    color: #9A1663;
+}
+
+.cart-btn {
+    background-color: #9A1663;
+}
+
+.cart-btn:hover {
+    background-color: #f553b1;
+}

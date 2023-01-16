@@ -1,0 +1,13 @@
+.checkout-bg {
+    background-color: #9A1663;
+    border: none;
+}
+
+.checkout-bg:hover {
+    background-color: #f544ab;
+    border: none;
+}
+
+.no-items {
+    color: #9A1663;
+}

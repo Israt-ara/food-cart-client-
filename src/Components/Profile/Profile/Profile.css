@@ -1,0 +1,15 @@
+.profile-design {
+    color: #9A1663;
+}
+
+.profile-design:hover {
+    color: #f744ac;
+}
+
+.profile-background {
+    background-color: #9A1663;
+}
+
+.profile-background:hover {
+    background-color: #f744ac;
+}

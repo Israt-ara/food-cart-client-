@@ -1,0 +1,19 @@
+nav a {
+    margin-left: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.navbar-design {
+    /* background-color: #f5b7db; */
+
+    margin-bottom: 10px;
+}
+
+nav a:hover {
+    color: #f77bc4;
+}
+
+.active {
+    color: blue;
+}

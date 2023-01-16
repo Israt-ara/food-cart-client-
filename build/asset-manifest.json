@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0fdd5e05.css",
+    "main.js": "/static/js/main.eb0a08ad.js",
+    "static/js/787.d082e44c.chunk.js": "/static/js/787.d082e44c.chunk.js",
+    "static/media/57946-profile-user-card.gif": "/static/media/57946-profile-user-card.9d2be482a74bc9ad08b0.gif",
+    "static/media/120068-healthy-food.gif": "/static/media/120068-healthy-food.c73690fc85caca7f6f41.gif",
+    "static/media/90723-cab-booking.gif": "/static/media/90723-cab-booking.42b25959ef8dfafe8a10.gif",
+    "static/media/14521-hotel-booking.gif": "/static/media/14521-hotel-booking.96770b4ae1eeb9258c24.gif",
+    "static/media/23730-3d-mobile-payment.gif": "/static/media/23730-3d-mobile-payment.752509d1067edf8a5fa4.gif",
+    "static/media/ff2.avif": "/static/media/ff2.2ec83d5763200174b865.avif",
+    "static/media/ff1.avif": "/static/media/ff1.eac549f7c7742c97b113.avif",
+    "static/media/foodshop3.webp": "/static/media/foodshop3.01177b3ddd109bcf7c2a.webp",
+    "static/media/foodshop2.webp": "/static/media/foodshop2.53716344233a05e0774b.webp",
+    "index.html": "/index.html",
+    "main.0fdd5e05.css.map": "/static/css/main.0fdd5e05.css.map",
+    "main.eb0a08ad.js.map": "/static/js/main.eb0a08ad.js.map",
+    "787.d082e44c.chunk.js.map": "/static/js/787.d082e44c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fdd5e05.css",
+    "static/js/main.eb0a08ad.js"
+  ]
+}
